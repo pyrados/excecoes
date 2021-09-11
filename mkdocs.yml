@@ -1,0 +1,36 @@
+site_name: "Python: Exceções, Iteradores e Geradores"
+site_author: Cláudio Esperança
+theme:
+  name: material
+  language: pt
+
+nav:    
+  - index.md
+  - excecoes.md
+  - objetos-de-excecao.md
+  - avisos.md
+  - raise.md
+  - raise-exemplos.md
+  - classes-de-excecao.md
+  - criacao-de-classe-de-excecao.md
+  - captura-de-excecao.md
+  - captura-de-excecao-exemplo-1.md
+  - captura-de-excecao-exemplo-2.md
+  - captura-de-excecao-exemplo-3.md
+  - excepts.md
+  - captura-de-excecao-exemplo-4.md
+  - captura-de-excecao-exemplo-5.md
+  - else.md
+  - captura-de-excecao-exemplo-6.md
+  - finally.md
+  - captura-de-excecao-exemplo-7.md
+  - iteradores.md
+  - iteradores-exemplo.md
+  - geradores.md
+  - geradores-exemplo.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+
+  - pymdownx.superfences
